@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
-        <p style={{fontSize: 56, color: '#ff00ff'}}>
+        <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <span>
